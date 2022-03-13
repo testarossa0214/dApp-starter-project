@@ -392,6 +392,7 @@ const App = () => {
       console.log(error)
     }
   }
+  
 
   /* WEBページがロードされたときに下記の関数を実行 */
   useEffect(() => {
